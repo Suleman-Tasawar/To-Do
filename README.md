@@ -1,5 +1,7 @@
 # To Do App
 
+As i am learning React so i decided to apply that knowledge and build some projects so Walla a Todo App.I know it is not that perfect but i will keep improving so just hangon.
+
 ## Features of this App
 1 Add the Tasks
 
